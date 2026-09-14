@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katarína Švábik (@katarinakovacova)
+- 👋 Hi, I’m Katarína Švábik (@katarinasvabik)
 - 👀 My specialty is Android and iOS software development
 - 🌱 Sudoku is my favourite logical game
 - 🔢 I’m working on the weather application right now 
